@@ -4,6 +4,11 @@
 
 ![Abdul Majid](img/github-header-banner.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 
@@ -198,12 +203,6 @@ A growth-oriented software engineer with a passion for continuous learning and i
 </div>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
