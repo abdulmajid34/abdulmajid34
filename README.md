@@ -189,9 +189,9 @@ A growth-oriented software engineer with a passion for continuous learning and i
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulmajid34&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-<div align="start">
+<!-- <div align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmajid34&theme=algolia" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="start">
   <img src="https://github-profile-trophy.vercel.app/?username=abdulmajid34&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -200,9 +200,9 @@ A growth-oriented software engineer with a passion for continuous learning and i
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulmajid34/abdulmajid34/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">
